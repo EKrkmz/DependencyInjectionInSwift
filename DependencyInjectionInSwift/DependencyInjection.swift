@@ -1,5 +1,4 @@
 //
-//  TightlyCoupledExample.swift
 //  DependencyInjectionInSwift
 //
 //  Created by Elif Korkmaz on 31.08.2021.
